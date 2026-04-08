@@ -1,4 +1,4 @@
-fitparse
+fitdecode
 pandas
 streamlit
 warnings
