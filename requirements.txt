@@ -1,6 +1,5 @@
 fitdecode
 pandas
 streamlit
-warnings
 numpy
 altair
