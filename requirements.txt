@@ -1,3 +1,6 @@
 fitparse
 pandas
 streamlit
+warnings
+numpy
+altair
